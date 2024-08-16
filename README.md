@@ -1,7 +1,30 @@
-## Hi there 👋
+### Frontend-Backend developer 👋
+
+
+👨‍💻 **Frontend skills**:
+- JavaScript
+- ReactJs
+- NextJs
+- Webpack
+- Git Workflows
+- HTML
+- Css/Scss/Styled-Components
+
+👨‍💻 **Backend skills**: 
+- NodeJs
+- PHP
+- MySQL
+- Docker
+- Linux
+- Laravel
+
+📩 **Contacts**: 
+- telegram: [@Dmitrytyt7](https://t.me/Dmitrytyt7)
+
 # My activity
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dmitrytyt)](https://git.io/streak-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmitrytyt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
